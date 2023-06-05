@@ -1,4 +1,4 @@
-hello.py
+README.md
 setup.py
 image_compress/__init__.py
 image_compress/image_compress.py
