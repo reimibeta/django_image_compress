@@ -7,7 +7,7 @@ setup(
     long_description='Test Long',
     author='ReimiBeta',
     author_email='reimi846@gmail.com',
-    url='https://github.com/reimibeta',
+    url='https://github.com/reimibeta/django_image_compress',
     license='MIT',
     packages=find_packages(),
     # py_modules=['image_compress',],
