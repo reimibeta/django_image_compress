@@ -22,15 +22,14 @@ ENV/
 env.bak/
 venv.bak/
 
-# requirements.txt
-
-# Files (uncomment when in production)
-#media/photos/
+# Build and Dist folder 
+build/
+dist/
+.egg-info/
 
 # Dummy Files
 .DS_Store
 .idea
 .idea/
-# App File
-app.sock
-#reimi.ppk
+
+
