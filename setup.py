@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django_image_compress',
-    version='1.0.0',
+    version='1.0.1',
     description='A sample image compress',
     long_description='Test Long',
     author='ReimiBeta',
